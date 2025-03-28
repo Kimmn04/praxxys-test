@@ -1,0 +1,8 @@
+{
+  "name": "PRAXXYS TEST",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "cb577a75"
+}
